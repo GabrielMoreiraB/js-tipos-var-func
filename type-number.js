@@ -1,5 +1,5 @@
-const priNum  = 1;
-const secNum = 2;
+const priNum  = 6;
+const secNum = 3;
 
 const OpeNume = priNum + secNum;
 
